@@ -20,6 +20,13 @@ O objetivo não é apenas analisar vendas, mas demonstrar maturidade analítica 
 
 ---
 
+## 📌 Project Status
+
+✔ Data Audit completed  
+⬜ Data Cleaning in progress  
+⬜ Exploratory Data Analysis  
+⬜ Strategic Insights
+
 ## 📂 Estrutura do Projeto
 
 ```bash
@@ -77,7 +84,7 @@ Análise orientada a indicadores-chave:
 - Sazonalidade
 - Forma de pagamento vs valor de compra
 
-### 4️⃣ Strategic Insights
+### 4️⃣ Insights Estratégicos
 - Identificação de riscos operacionais
 - Oportunidades de crescimento
 - Recomendações acionáveis
@@ -94,7 +101,7 @@ Análise orientada a indicadores-chave:
 
 ---
 
-## 🚀 Próximos pAssos
+## 🚀 Próximos Passos
 
 - Testes de hipótese e inferência estatística
 - Modelagem preditiva de receita
