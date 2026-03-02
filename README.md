@@ -22,8 +22,6 @@ O objetivo não é apenas analisar vendas, mas demonstrar maturidade analítica 
 
 ## 📂 Estrutura do Projeto
 
-## 📂 Estrutura do Projeto
-
 ```bash
 ecommerce-analytics/
 │
