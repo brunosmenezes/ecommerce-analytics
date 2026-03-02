@@ -22,7 +22,24 @@ O objetivo não é apenas analisar vendas, mas demonstrar maturidade analítica 
 
 ## 📂 Estrutura do Projeto
 
-```bash ecommerce-analytics/ │ ├── data/ │ ├── raw/ # Base original com ruídos corporativos │ └── processed/ # Base tratada e pronta para análise │ ├── notebooks/ │ ├── 01_data_audit.ipynb │ ├── 02_data_cleaning.ipynb │ ├── 03_eda.ipynb │ └── 04_business_insights.ipynb │ ├── README.md └── .gitignore ```
+## 📂 Estrutura do Projeto
+
+```bash
+ecommerce-analytics/
+│
+├── data/
+│   ├── raw/         # Base original com ruídos corporativos
+│   └── processed/   # Base tratada e pronta para análise
+│
+├── notebooks/
+│   ├── 01_data_audit.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   └── 04_business_insights.ipynb
+│
+├── README.md
+└── .gitignore
+```
 
 ---
 
