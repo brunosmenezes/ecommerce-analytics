@@ -1,4 +1,9 @@
-data/raw/
-*.csv
-.ipynb_checkpoints/
+# Ambiente
+.env
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
